@@ -37,13 +37,15 @@
 
 ## Complex/difficult locators
 
+- xpath
+- CSS selector
+
 Separate lessons will be dedicated to these two ways of locating element.
 
 Why are they usefull? - We can do sth like "Find element that has two 
 child elements of type div that each has two li elements below it."
 
-- xpath
-- CSS selector
+
 
 
 ## Find element VS find element[S]
