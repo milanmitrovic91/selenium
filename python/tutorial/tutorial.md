@@ -47,8 +47,6 @@ Why are they usefull? - We can do sth like "Find element that has two child elem
 
 ## Find element VS find element[S]
 
-When 
-
 driver.find_element_by ... -> returns webelement object
 
 driver.find_elements_by ... -> returns list of webelement objects
@@ -74,5 +72,11 @@ One that is:
 - Get chromedriver (check chrome version first)
 - pip install selenium
 
+
+## Why do we need automated tests?
+
+- During development process, that can last several years, every week new features are added.
+- Before proceeding with new functionalities, we need to be sure that old features work.
+- Using automated tests, we can easily test all product features at once.
 
 
