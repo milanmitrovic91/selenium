@@ -39,7 +39,8 @@
 
 Separate lessons will be dedicated to these two ways of locating element.
 
-Why are they usefull? - We can do sth like "Find element that has two child elements of type div that each has two li elements below it."
+Why are they usefull? - We can do sth like "Find element that has two 
+child elements of type div that each has two li elements below it."
 
 - xpath
 - CSS selector
@@ -54,9 +55,12 @@ driver.find_elements_by ... -> returns list of webelement objects
 
 ## Useful web site for testing practice
 
-Here can be found web elements that we are going to use during exercises <https://formy-project.herokuapp.com> .
+Here can be found web elements that we are 
+going to use during exercises <https://formy-project.herokuapp.com> .
 
-We can find detailed documentation of python selenium api on this link <https://selenium-python.readthedocs.io> . This is place where I used to spend lot of time when I was working with selenium.
+We can find detailed documentation of python selenium api on this 
+link <https://selenium-python.readthedocs.io> . This is place where 
+I used to spend lot of time when I was working with selenium.
 
 ## Which locator is good?
 
@@ -80,4 +84,12 @@ One that is:
 - Before proceeding with new functionalities, we need to be sure that old features work.
 - Using automated tests, we can easily test all product features at once.
 
+
+
+## Elements that we will learn to handle
+
+TextBox, Submit button, CheckBox, Radio button, how to click on Image,
+Select value from DropDown, Mouse Click and Keyboard events,
+How to upload and Download files, Alert & Pop up window handling,
+Handling Web Tables, Verifying Tooltip.
 
