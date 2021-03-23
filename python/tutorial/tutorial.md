@@ -75,6 +75,7 @@ One that is:
 
 ## Getting started
 
+- Install PyCharm community version
 - Install google chrome
 - Get chromedriver (check chrome version first)
 - pip install selenium
