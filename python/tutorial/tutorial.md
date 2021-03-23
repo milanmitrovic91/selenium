@@ -56,6 +56,7 @@ driver.find_elements_by ... -> returns list of webelement objects
 
 Here can be found web elements that we are going to use during exercises <https://formy-project.herokuapp.com> .
 
+We can find detailed documentation of python selenium api on this link <https://selenium-python.readthedocs.io> . This is place where I used to spend lot of time when I was working with selenium.
 
 ## Which locator is good?
 
