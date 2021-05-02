@@ -98,10 +98,15 @@ Handling Web Tables, Verifying Tooltip.
 
 ## Xpath cheatsheet
 
-
+-
+-
+-
 
 ## CSS selector cheatsheet
 
+-
+-
+-
 
 
 
