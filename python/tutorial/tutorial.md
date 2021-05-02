@@ -96,3 +96,12 @@ Select value from DropDown, Mouse Click and Keyboard events,
 How to upload and Download files, Alert & Pop up window handling,
 Handling Web Tables, Verifying Tooltip.
 
+## Xpath cheatsheet
+
+
+
+## CSS selector cheatsheet
+
+
+
+
